@@ -1,5 +1,3 @@
-package FolhaDePagamento;
-
 public class FuncionarioBonificado extends FuncionarioComissionado {
   private double bonus;
 
@@ -8,7 +6,7 @@ public class FuncionarioBonificado extends FuncionarioComissionado {
 
   public FuncionarioBonificado(String nome, double salarioBase, double vendasMensais, double percentualComissao,
       double bonus) {
-    super(nome, salarioBase, vendasMensais, percentualComissao);
+    super();
     this.bonus = bonus;
   }
 

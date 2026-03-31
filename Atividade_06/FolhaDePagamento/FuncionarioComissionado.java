@@ -1,13 +1,11 @@
-package FolhaDePagamento;
-
 public class FuncionarioComissionado extends Funcionario {
   private double vendasMensais;
   private double percentualComissao;
 
-  public FuncionarioComissioado() {
+  public void FuncionarioComissioado() {
   }
 
-  public FuncionarioComissioado(String nome, double salarioBase, double vendasMensais, double percentualComissao) {
+  public void FuncionarioComissioado(String nome, double salarioBase, double vendasMensais, double percentualComissao) {
         super(nome, salarioBase);
         this.vendasMensais = vendasMensais;
         this.percentualComissao = percentualComissao;

@@ -1,5 +1,3 @@
-package FolhaDePagamento;
-
 import java.util.List;
 
 public class FolhaDePagamento {
