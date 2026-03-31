@@ -1,0 +1,3 @@
+Professora, meus main's estavam dando problema, e a forma que achei 
+de resolver foi mudando os nomes dos arquivos.
+Padrão: (nome da pasta)Main.java
